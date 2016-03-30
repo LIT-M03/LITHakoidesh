@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="LITHakoidesh">
+  <DataContextMoniker Name="/LITHakoideshDataContext" />
+  <nestedChildShapes>
+    <classShape Id="f9420b27-9579-491e-9429-8622a3794b68" absoluteBounds="4.375, 1.5, 2, 1.3862939453125">
+      <DataClassMoniker Name="/LITHakoideshDataContext/Visit" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1400502f-d427-4b84-aa64-84240c1ef920" absoluteBounds="4.39, 1.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

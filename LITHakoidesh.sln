@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LITHakoidesh.Web", "LITHakoidesh.Web\LITHakoidesh.Web.csproj", "{D0751EF1-FD82-468A-BE48-70C04C6E8DF6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LITHakoidesh.Data", "LITHakoidesh.Data\LITHakoidesh.Data.csproj", "{4BDADBAC-AD36-44AD-8070-6DBA8D1F031F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{D0751EF1-FD82-468A-BE48-70C04C6E8DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0751EF1-FD82-468A-BE48-70C04C6E8DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0751EF1-FD82-468A-BE48-70C04C6E8DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BDADBAC-AD36-44AD-8070-6DBA8D1F031F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDADBAC-AD36-44AD-8070-6DBA8D1F031F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDADBAC-AD36-44AD-8070-6DBA8D1F031F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDADBAC-AD36-44AD-8070-6DBA8D1F031F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
